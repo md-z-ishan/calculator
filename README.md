@@ -1,3 +1,12 @@
+<img width="321" height="343" alt="image" src="https://github.com/user-attachments/assets/cddc3322-d083-430c-a463-a79d02a3a5e3" />
+
+
+
+
+
+
+
+
 # Calculator App
 
 A simple web-based calculator application built with HTML, CSS, and JavaScript, containerized using Docker and served with Nginx.
